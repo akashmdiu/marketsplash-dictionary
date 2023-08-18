@@ -4105,11 +4105,6 @@
         "Page_Description": "A legal agreement to limit liability."
     },
     {
-        "Page_Name": "Holdco",
-        "Page_Slug": "holdco",
-        "Page_Description": "A holding company."
-    },
-    {
         "Page_Name": "Holder of Record",
         "Page_Slug": "holder-of-record",
         "Page_Description": "The registered owner of a security."
@@ -9120,11 +9115,6 @@
         "Page_Description": "Company regulated under U.S. tax law."
     },
     {
-        "Page_Name": "What Is Regulation CC",
-        "Page_Slug": "what-is-regulation-cc",
-        "Page_Description": "Funds availability regulation."
-    },
-    {
         "Page_Name": "Regulation D (Reg D)",
         "Page_Slug": "regulation-d-reg-d",
         "Page_Description": "Rules for reserve requirements."
@@ -10535,11 +10525,6 @@
         "Page_Description": "Rights that allow minority shareholders to join a transaction."
     },
     {
-        "Page_Name": "Understanding Tail Risk and the Odds of Portfolio Losses",
-        "Page_Slug": "understanding-tail-risk-and-the-odds-of-portfolio-losses",
-        "Page_Description": "Risk of rare events causing large portfolio losses."
-    },
-    {
         "Page_Name": "Take-Out Loan",
         "Page_Slug": "take-out-loan",
         "Page_Description": "Long-term financing to replace short-term interim financing."
@@ -11755,6 +11740,11 @@
         "Page_Description": "Insufficient demand for a new issue of securities."
     },
     {
+        "Page_Name": "Understanding Tail Risk and the Odds of Portfolio Losses",
+        "Page_Slug": "understanding-tail-risk-and-the-odds-of-portfolio-losses",
+        "Page_Description": "Risk of rare events causing large portfolio losses."
+    },
+    {
         "Page_Name": "Undervalued",
         "Page_Slug": "undervalued",
         "Page_Description": "Trading below its intrinsic or estimated value."
@@ -12949,6 +12939,7 @@
         "Page_Slug": "vxn-cboe-nasdaq-volatility-index",
         "Page_Description": "Volatility index for the NASDAQ-100 index."
     },
+    
     {
         "Page_Name": "W-2 Form",
         "Page_Slug": "w-2-form",
@@ -13348,6 +13339,11 @@
         "Page_Name": "Wet Loan",
         "Page_Slug": "wet-loan",
         "Page_Description": "Mortgage loan funded on the closing date."
+    },
+    {
+        "Page_Name": "What Is Regulation CC",
+        "Page_Slug": "what-is-regulation-cc",
+        "Page_Description": "Funds availability regulation."
     },
     {
         "Page_Name": "When Issued (WI)",
