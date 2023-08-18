@@ -1,52 +1,53 @@
-[{
+[
+    {
         "Page_Name": "A-B Trust",
         "Page_Slug": "a-b-trust",
-        "Page_Description": "A-B Trust"
+        "Page_Description": "A legal arrangement to divide assets into two trusts (A and B) for tax benefits."
     },
     {
         "Page_Name": "A-Shares",
         "Page_Slug": "a-shares",
-        "Page_Description": "A-Shares"
+        "Page_Description": "Shares that have voting rights and receive dividends, typically owned by insiders."
     },
     {
         "Page_Name": "AAA",
         "Page_Slug": "aaa",
-        "Page_Description": "AAA"
+        "Page_Description": "The highest credit rating given by rating agencies, indicating the lowest risk of default."
     },
     {
         "Page_Name": "Ability-to-Pay Taxation",
         "Page_Slug": "ability-to-pay-taxation",
-        "Page_Description": "Ability-to-Pay Taxation"
+        "Page_Description": "A tax system that considers the taxpayer's ability to pay the tax."
     },
     {
         "Page_Name": "Abnormal Return",
         "Page_Slug": "abnormal-return",
-        "Page_Description": "Abnormal Return"
+        "Page_Description": "The return on an investment that deviates from its expected outcome."
     },
     {
         "Page_Name": "Absolute Return",
         "Page_Slug": "absolute-return",
-        "Page_Description": "Absolute Return"
+        "Page_Description": "The return that an asset or portfolio achieves over a certain period."
     },
     {
         "Page_Name": "Accelerated Depreciation",
         "Page_Slug": "accelerated-depreciation",
-        "Page_Description": "Accelerated Depreciation"
+        "Page_Description": "A method that records higher depreciation cost in the early years of an asset's life."
     },
     {
         "Page_Name": "Acceleration Clause",
         "Page_Slug": "acceleration-clause",
-        "Page_Description": "Acceleration Clause"
+        "Page_Description": "A contract provision that allows a lender to require a borrower to repay all or part of a loan immediately."
     },
     {
         "Page_Name": "Account Balance",
         "Page_Slug": "account-balance",
-        "Page_Description": "Account Balance"
+        "Page_Description": "The amount of money in a financial repository, such as a checking or savings account, at any given moment."
     },
     {
         "Page_Name": "Account in Trust",
         "Page_Slug": "account-in-trust",
-        "Page_Description": "Account in Trust"
+        "Page_Description": "A financial account opened by one person for the benefit of another."
     },
     {
         "Page_Name": "Account Number",
@@ -1421,7 +1422,7 @@
     {
         "Page_Name": "Credit Default Swap (CDS)",
         "Page_Slug": "credit-default-swap-cds",
-        "Page_Description": "A financial derivative allowing an investor to \"swap\" credit risk."
+        "Page_Description": "\"A financial derivative allowing an investor to \"\"swap\"\" credit risk.\""
     },
     {
         "Page_Name": "Credit Linked Note (CLN)",
@@ -3861,7 +3862,7 @@
     {
         "Page_Name": "Halloween Strategy",
         "Page_Slug": "halloween-strategy",
-        "Page_Description": "\"Sell in May\" investment strategy."
+        "Page_Description": "\"\"\"Sell in May\"\" investment strategy.\""
     },
     {
         "Page_Name": "Hamada Equation",
@@ -6411,7 +6412,7 @@
     {
         "Page_Name": "Nanny Tax",
         "Page_Slug": "nanny-tax",
-        "Page_Description": "The \"Nanny Tax\" refers to the obligation of employers to pay employment taxes when hiring domestic workers such as nannies."
+        "Page_Description": "\"The \"\"Nanny Tax\"\" refers to the obligation of employers to pay employment taxes when hiring domestic workers such as nannies.\""
     },
     {
         "Page_Name": "Narrow Money",
@@ -8050,7 +8051,8 @@
     },
     {
         "Page_Name": "Pre-Market",
-        "Page_Slug": "pre-market"
+        "Page_Slug": "pre-market",
+        "Page_Description": ""
     },
     {
         "Page_Name": "Predatory Pricing",
@@ -13625,7 +13627,7 @@
     {
         "Page_Name": "Wrap-Around Loan",
         "Page_Slug": "wrap-around-loan",
-        "Page_Description": "A type of loan that includes or \"wraps around\" the balance on the existing mortgage."
+        "Page_Description": "\"A type of loan that includes or \"\"wraps around\"\" the balance on the existing mortgage.\""
     },
     {
         "Page_Name": "Wrap-Up Insurance",
