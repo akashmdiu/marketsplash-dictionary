@@ -8385,7 +8385,7 @@
         "Page_Description": "Cryptocurrency validation method."
     },
     {
-        "Page_Name": " Proof of Work (PoW)",
+        "Page_Name": "Proof of Work (PoW)",
         "Page_Slug": "proof-of-work-pow",
         "Page_Description": "Consensus algorithm to confirm transactions in blockchain."
     },
