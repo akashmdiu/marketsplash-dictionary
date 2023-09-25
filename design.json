@@ -1,0 +1,2577 @@
+[
+    {
+        "Page_Name": "Accessible Design",
+        "Page_Slug": "accessible-design",
+        "Page_Description": " Design that is inclusive and can be easily used by people with disabilities."
+    },
+    {
+        "Page_Name": "Accordion Fold",
+        "Page_Slug": "accordion-fold",
+        "Page_Description": "A type of paper folding technique where the paper is folded back and forth in a zigzag pattern, resembling the folds of an accordion."
+    },
+    {
+        "Page_Name": "Adaptive Design",
+        "Page_Slug": "adaptive-design",
+        "Page_Description": "Design that adapts to different devices, screen sizes, or user preferences."
+    },
+    {
+        "Page_Name": "Advertorial",
+        "Page_Slug": "advertorial",
+        "Page_Description": " An advertisement that is designed to look like an editorial or article."
+    },
+    {
+        "Page_Name": "Align Text Left",
+        "Page_Slug": "align-text-left",
+        "Page_Description": "The alignment of text to the left edge of a container or page."
+    },
+    {
+        "Page_Name": "Align Text Right",
+        "Page_Slug": "align-text-right",
+        "Page_Description": "The alignment of text to the right edge of a container or page."
+    },
+    {
+        "Page_Name": "Amend",
+        "Page_Slug": "amend",
+        "Page_Description": "To make changes or corrections to a design."
+    },
+    {
+        "Page_Name": "Analogous",
+        "Page_Slug": "analogous",
+        "Page_Description": "Colors that are next to each other on the color wheel."
+    },
+    {
+        "Page_Name": "Analytics",
+        "Page_Slug": "analytics",
+        "Page_Description": "The measurement and analysis of data for the purpose of improving design and user experience."
+    },
+    {
+        "Page_Name": "Anilox",
+        "Page_Slug": "anilox",
+        "Page_Description": "A roller used in flexographic printing to transfer ink to the printing plate."
+    },
+    {
+        "Page_Name": "Animation",
+        "Page_Slug": "animation",
+        "Page_Description": "The process of creating movement and motion in a design."
+    },
+    {
+        "Page_Name": "Aqueous Varnish",
+        "Page_Slug": "aqueous-varnish",
+        "Page_Description": "A type of varnish that is water-based and provides a glossy finish."
+    },
+    {
+        "Page_Name": "Artboard",
+        "Page_Slug": "artboard",
+        "Page_Description": "A virtual canvas on which a design is created or displayed."
+    },
+    {
+        "Page_Name": "Aspect Ratio",
+        "Page_Slug": "aspect-ratio",
+        "Page_Description": "The proportional relationship between the width and height of a design."
+    },
+    {
+        "Page_Name": "Auto Trace",
+        "Page_Slug": "auto-trace",
+        "Page_Description": "The process of converting a raster image into vector format."
+    },
+    {
+        "Page_Name": "Avatar",
+        "Page_Slug": "avatar",
+        "Page_Description": "A graphical representation or image used to represent a person or user."
+    },
+    {
+        "Page_Name": "Back Cover",
+        "Page_Slug": "back-cover",
+        "Page_Description": "The outermost page of a book or magazine, usually containing important information or artwork."
+    },
+    {
+        "Page_Name": "Back Page",
+        "Page_Slug": "back-page",
+        "Page_Description": "The final page of a document or publication."
+    },
+    {
+        "Page_Name": "Back Printing",
+        "Page_Slug": "back-printing",
+        "Page_Description": "The process of printing on the reverse side of a material, such as paper or fabric."
+    },
+    {
+        "Page_Name": "Background",
+        "Page_Slug": "background",
+        "Page_Description": "The underlying design or image that sets the tone for a webpage or graphic."
+    },
+    {
+        "Page_Name": "Backlining Canvas",
+        "Page_Slug": "backlining-canvas",
+        "Page_Description": "A tool used in web design to map out the structure and flow of a website."
+    },
+    {
+        "Page_Name": "Banner",
+        "Page_Slug": "banner",
+        "Page_Description": "Banner is a graphic image or advertisement typically placed at the top of a webpage."
+    },
+    {
+        "Page_Name": "Baseline",
+        "Page_Slug": "baseline",
+        "Page_Description": "Baseline is an imaginary line used in typography to align characters and ensure consistent vertical spacing."
+    },
+    {
+        "Page_Name": "Belly Band",
+        "Page_Slug": "belly-band",
+        "Page_Description": "Belly Band is a strip of paper or material that wraps around a book or magazine cover."
+    },
+    {
+        "Page_Name": "Bento Menu",
+        "Page_Slug": "bento-menu",
+        "Page_Description": "Bento Menu is a style of menu design that presents a variety of options in a compact and organized layout."
+    },
+    {
+        "Page_Name": "Bézier Curve",
+        "Page_Slug": "b-zier-curve",
+        "Page_Description": "Bézier Curve is a mathematical curve used in computer graphics and typography to create smooth and precise shapes."
+    },
+    {
+        "Page_Name": "Bitmap",
+        "Page_Slug": "bitmap",
+        "Page_Description": "A type of image format that is made up of pixels."
+    },
+    {
+        "Page_Name": "Bleeding",
+        "Page_Slug": "bleeding",
+        "Page_Description": "When ink or color extends beyond the intended area on a printed page."
+    },
+    {
+        "Page_Name": "Blind Debossing",
+        "Page_Slug": "blind-debossing",
+        "Page_Description": "A printing technique where an image or design is pressed into the surface of paper or cardstock without ink."
+    },
+    {
+        "Page_Name": "Blind Embossing",
+        "Page_Slug": "blind-embossing",
+        "Page_Description": "A printing technique where an image or design is raised on the surface of paper or cardstock without ink."
+    },
+    {
+        "Page_Name": "Blind Stamp",
+        "Page_Slug": "blind-stamp",
+        "Page_Description": "A mark or impression made on a surface without ink or color."
+    },
+    {
+        "Page_Name": "Blind Stamping",
+        "Page_Slug": "blind-stamping",
+        "Page_Description": "A printing technique where an image or design is pressed into the surface of paper or cardstock without ink or color."
+    },
+    {
+        "Page_Name": "Body Size",
+        "Page_Slug": "body-size",
+        "Page_Description": "The physical stature or dimensions of an object or person."
+    },
+    {
+        "Page_Name": "Body Text",
+        "Page_Slug": "body-text",
+        "Page_Description": "Main content in a document, distinct from headings."
+    },
+    {
+        "Page_Name": "Book",
+        "Page_Slug": "book",
+        "Page_Description": "Printed work bound in covers, often with text and illustrations."
+    },
+    {
+        "Page_Name": "Border",
+        "Page_Slug": "border",
+        "Page_Description": "Decorative or functional frame around a design or image."
+    },
+    {
+        "Page_Name": "Bottom-Edge",
+        "Page_Slug": "bottom-edge",
+        "Page_Description": "The lowest part or margin of something."
+    },
+    {
+        "Page_Name": "Bowl",
+        "Page_Slug": "bowl",
+        "Page_Description": "Curved or enclosed space in a letter, such as 'g' or 'b'."
+    },
+    {
+        "Page_Name": "Braille",
+        "Page_Slug": "braille",
+        "Page_Description": "Tactile writing system for the visually impaired."
+    },
+    {
+        "Page_Name": "Brand Guide/ Style Guide",
+        "Page_Slug": "brand-guide-style-guide",
+        "Page_Description": "Set of standards for a brand's visual and communicative elements."
+    },
+    {
+        "Page_Name": "Brand Identity",
+        "Page_Slug": "brand-identity",
+        "Page_Description": "Visual and conceptual elements representing a company or product."
+    },
+    {
+        "Page_Name": "Branding",
+        "Page_Slug": "branding",
+        "Page_Description": "Process of creating a distinct image or identity for a product/company."
+    },
+    {
+        "Page_Name": "Breadcrumb",
+        "Page_Slug": "breadcrumb",
+        "Page_Description": "Navigation aid showing the user's path in a hierarchical website."
+    },
+    {
+        "Page_Name": "Brochure",
+        "Page_Slug": "brochure",
+        "Page_Description": "Informative paper document, often folded, about a topic or service."
+    },
+    {
+        "Page_Name": "Brush Tool",
+        "Page_Slug": "brush-tool",
+        "Page_Description": "Digital tool for painting and drawing in graphic software."
+    },
+    {
+        "Page_Name": "Business Card",
+        "Page_Slug": "business-card",
+        "Page_Description": "Small card displaying a person's contact information."
+    },
+    {
+        "Page_Name": "Button",
+        "Page_Slug": "button",
+        "Page_Description": "Interactive interface element prompting user response."
+    },
+    {
+        "Page_Name": "C1S",
+        "Page_Slug": "c1s",
+        "Page_Description": "Paper coated on one side."
+    },
+    {
+        "Page_Name": "C2S",
+        "Page_Slug": "c2s",
+        "Page_Description": "Paper coated on both sides."
+    },
+    {
+        "Page_Name": "Capital",
+        "Page_Slug": "capital",
+        "Page_Description": "Upper case letter, as opposed to lowercase."
+    },
+    {
+        "Page_Name": "Caption",
+        "Page_Slug": "caption",
+        "Page_Description": "Brief description or label accompanying an image."
+    },
+    {
+        "Page_Name": "Card",
+        "Page_Slug": "card",
+        "Page_Description": "A flat, usually rectangular piece of stiff paper, plastic, or other material."
+    },
+    {
+        "Page_Name": "Catalog",
+        "Page_Slug": "catalog",
+        "Page_Description": "Booklet showcasing a list of items or services for sale."
+    },
+    {
+        "Page_Name": "CCMMYK",
+        "Page_Slug": "ccmmyk",
+        "Page_Description": "Extended color model including cyan, magenta, yellow, black, orange, and green."
+    },
+    {
+        "Page_Name": "Center",
+        "Page_Slug": "center",
+        "Page_Description": "Exact middle point of an object or space."
+    },
+    {
+        "Page_Name": "Centered Text",
+        "Page_Slug": "centered-text",
+        "Page_Description": "Text aligned equally on both sides of a vertical axis."
+    },
+    {
+        "Page_Name": "Character",
+        "Page_Slug": "character",
+        "Page_Description": "Single symbol representing sound or idea in writing."
+    },
+    {
+        "Page_Name": "Charts",
+        "Page_Slug": "charts",
+        "Page_Description": "Visual representations of data, like bar or pie graphs."
+    },
+    {
+        "Page_Name": "Chase",
+        "Page_Slug": "chase",
+        "Page_Description": "Frame for holding metal type in letterpress printing."
+    },
+    {
+        "Page_Name": "Checkboxes",
+        "Page_Slug": "checkboxes",
+        "Page_Description": "Interactive boxes allowing multiple choices in a form."
+    },
+    {
+        "Page_Name": "CMY",
+        "Page_Slug": "cmy",
+        "Page_Description": "Color model using cyan, magenta, and yellow."
+    },
+    {
+        "Page_Name": "CMYK",
+        "Page_Slug": "cmyk",
+        "Page_Description": "Color model using cyan, magenta, yellow, and black."
+    },
+    {
+        "Page_Name": "CMYKOG",
+        "Page_Slug": "cmykog",
+        "Page_Description": "Color model with cyan, magenta, yellow, black, orange, and green."
+    },
+    {
+        "Page_Name": "CMYKOGV",
+        "Page_Slug": "cmykogv",
+        "Page_Description": "Extended color model adding violet to CMYKOG."
+    },
+    {
+        "Page_Name": "Colophon",
+        "Page_Slug": "colophon",
+        "Page_Description": "Publisher's emblem or imprint, usually at book's end."
+    },
+    {
+        "Page_Name": "Color Art",
+        "Page_Slug": "color-art",
+        "Page_Description": "Original artwork in full color."
+    },
+    {
+        "Page_Name": "Color Gamut",
+        "Page_Slug": "color-gamut",
+        "Page_Description": "Entire range of colors available in a specific medium."
+    },
+    {
+        "Page_Name": "Color Management",
+        "Page_Slug": "color-management",
+        "Page_Description": "Ensuring consistent color across various devices and media."
+    },
+    {
+        "Page_Name": "Color Profile",
+        "Page_Slug": "color-profile",
+        "Page_Description": "Data set defining specific gamut of an input or output device."
+    },
+    {
+        "Page_Name": "Color Proof",
+        "Page_Slug": "color-proof",
+        "Page_Description": "Test print ensuring color accuracy before production."
+    },
+    {
+        "Page_Name": "Color Spacing",
+        "Page_Slug": "color-spacing",
+        "Page_Description": "Arrangement of colors in a specific order or system."
+    },
+    {
+        "Page_Name": "Color Theory",
+        "Page_Slug": "color-theory",
+        "Page_Description": "Study of how colors influence perceptions and behavior."
+    },
+    {
+        "Page_Name": "Color Wheel",
+        "Page_Slug": "color-wheel",
+        "Page_Description": "Circular graph representing relationships between colors."
+    },
+    {
+        "Page_Name": "Combination Logo",
+        "Page_Slug": "combination-logo",
+        "Page_Description": "Logo blending icon and text elements."
+    },
+    {
+        "Page_Name": "Composition",
+        "Page_Slug": "composition",
+        "Page_Description": "Arranging elements harmoniously in design or art."
+    },
+    {
+        "Page_Name": "Compound Path",
+        "Page_Slug": "compound-path",
+        "Page_Description": "Vector shape made from the combination of two or more paths."
+    },
+    {
+        "Page_Name": "Computer To Film",
+        "Page_Slug": "computer-to-film",
+        "Page_Description": "Technology transferring digital designs directly onto film."
+    },
+    {
+        "Page_Name": "Computer To Plate",
+        "Page_Slug": "computer-to-plate",
+        "Page_Description": "Technology directly transferring digital designs onto printing plates."
+    },
+    {
+        "Page_Name": "Concertina",
+        "Page_Slug": "concertina",
+        "Page_Description": "Folding method where pages are arranged like an accordion."
+    },
+    {
+        "Page_Name": "Condensed",
+        "Page_Slug": "condensed",
+        "Page_Description": "Font style with characters set closely together."
+    },
+    {
+        "Page_Name": "Containers",
+        "Page_Slug": "containers",
+        "Page_Description": "Design elements holding content or other elements."
+    },
+    {
+        "Page_Name": "Contrast",
+        "Page_Slug": "contrast",
+        "Page_Description": "Difference in brightness or color, enhancing visibility or emphasis."
+    },
+    {
+        "Page_Name": "Control Strip",
+        "Page_Slug": "control-strip",
+        "Page_Description": "Printed strip on output for monitoring printing conditions."
+    },
+    {
+        "Page_Name": "Corrugated Cardboard",
+        "Page_Slug": "corrugated-cardboard",
+        "Page_Description": "Thick board with ridged center layer and two flat outer layers."
+    },
+    {
+        "Page_Name": "Corrugated Paper",
+        "Page_Slug": "corrugated-paper",
+        "Page_Description": "Thick paper with ridged texture."
+    },
+    {
+        "Page_Name": "Couché Paper",
+        "Page_Slug": "couch-paper",
+        "Page_Description": "Paper with a smooth, glossy finish."
+    },
+    {
+        "Page_Name": "Counter",
+        "Page_Slug": "counter",
+        "Page_Description": "Space enclosed or partially enclosed by a letterform."
+    },
+    {
+        "Page_Name": "Counter-Die",
+        "Page_Slug": "counter-die",
+        "Page_Description": "Die that pushes paper into an engraved die for embossing."
+    },
+    {
+        "Page_Name": "Countergraphism",
+        "Page_Slug": "countergraphism",
+        "Page_Description": "Artistic opposition to traditional graphic design conventions."
+    },
+    {
+        "Page_Name": "Counterproofing",
+        "Page_Slug": "counterproofing",
+        "Page_Description": "Process of transferring an image from one surface to another."
+    },
+    {
+        "Page_Name": "Crop Marks",
+        "Page_Slug": "crop-marks",
+        "Page_Description": "Printed lines indicating where to trim a printed sheet."
+    },
+    {
+        "Page_Name": "CSS",
+        "Page_Slug": "css",
+        "Page_Description": "Cascading Style Sheets; styles web page appearance."
+    },
+    {
+        "Page_Name": "CTF",
+        "Page_Slug": "ctf",
+        "Page_Description": "Computer To Film technology."
+    },
+    {
+        "Page_Name": "CTP",
+        "Page_Slug": "ctp",
+        "Page_Description": "Computer To Plate technology."
+    },
+    {
+        "Page_Name": "Cure",
+        "Page_Slug": "cure",
+        "Page_Description": "Process of ink or other material hardening."
+    },
+    {
+        "Page_Name": "Cursive",
+        "Page_Slug": "cursive",
+        "Page_Description": "Script with flowing, joined-up letters."
+    },
+    {
+        "Page_Name": "Cut Out",
+        "Page_Slug": "cut-out",
+        "Page_Description": "Removing and isolating a portion of an image."
+    },
+    {
+        "Page_Name": "Debossing",
+        "Page_Slug": "debossing",
+        "Page_Description": "Process of pressing into a surface to create a recessed design."
+    },
+    {
+        "Page_Name": "Decay And Radius (Spiral)",
+        "Page_Slug": "decay-and-radius-spiral",
+        "Page_Description": "In graphics, a spiral's expansion rate and distance from the center."
+    },
+    {
+        "Page_Name": "Densitometer",
+        "Page_Slug": "densitometer",
+        "Page_Description": "Instrument measuring optical density in photographic or printed material."
+    },
+    {
+        "Page_Name": "Descender",
+        "Page_Slug": "descender",
+        "Page_Description": "Part of a letter that extends below the baseline, like 'y' or 'p'."
+    },
+    {
+        "Page_Name": "Design Brief",
+        "Page_Slug": "design-brief",
+        "Page_Description": "Document detailing expectations and requirements for a design project."
+    },
+    {
+        "Page_Name": "Design Debt",
+        "Page_Slug": "design-debt",
+        "Page_Description": "Compromises in design due to constraints, causing future issues."
+    },
+    {
+        "Page_Name": "Design Deliverables",
+        "Page_Slug": "design-deliverables",
+        "Page_Description": "Tangible or digital outputs provided upon a project's completion."
+    },
+    {
+        "Page_Name": "Design Exercise",
+        "Page_Slug": "design-exercise",
+        "Page_Description": "Task given to designers to test or demonstrate their skills."
+    },
+    {
+        "Page_Name": "Design Facilitation",
+        "Page_Slug": "design-facilitation",
+        "Page_Description": "Guiding and enabling design processes in a group."
+    },
+    {
+        "Page_Name": "Design Sprint",
+        "Page_Slug": "design-sprint",
+        "Page_Description": "Time-constrained, phase-based approach to product development."
+    },
+    {
+        "Page_Name": "Design System",
+        "Page_Slug": "design-system",
+        "Page_Description": "Collection of design standards, templates, and patterns."
+    },
+    {
+        "Page_Name": "Desktop Publishing",
+        "Page_Slug": "desktop-publishing",
+        "Page_Description": "Creating documents using computer software."
+    },
+    {
+        "Page_Name": "Die Cutting",
+        "Page_Slug": "die-cutting",
+        "Page_Description": "Process of using dies to cut or shape materials."
+    },
+    {
+        "Page_Name": "Digital Art Work",
+        "Page_Slug": "digital-art-work",
+        "Page_Description": "Artwork created using digital tools and mediums."
+    },
+    {
+        "Page_Name": "Digital Composition",
+        "Page_Slug": "digital-composition",
+        "Page_Description": "Arranging text and graphic content using digital tools."
+    },
+    {
+        "Page_Name": "Digital Printing",
+        "Page_Slug": "digital-printing",
+        "Page_Description": "Method of printing from digital-based images directly to media."
+    },
+    {
+        "Page_Name": "Diptych",
+        "Page_Slug": "diptych",
+        "Page_Description": "Artwork consisting of two parts or panels."
+    },
+    {
+        "Page_Name": "Direct Printing",
+        "Page_Slug": "direct-printing",
+        "Page_Description": "Printing method where the plate directly imprints onto the substrate."
+    },
+    {
+        "Page_Name": "Divider",
+        "Page_Slug": "divider",
+        "Page_Description": "Thin object separating sections or content."
+    },
+    {
+        "Page_Name": "Dot Gain",
+        "Page_Slug": "dot-gain",
+        "Page_Description": "Spread of ink on paper causing dots to print larger than intended."
+    },
+    {
+        "Page_Name": "Dots Per Inch",
+        "Page_Slug": "dots-per-inch",
+        "Page_Description": "Measurement of printed dot density, indicating resolution."
+    },
+    {
+        "Page_Name": "Dotted",
+        "Page_Slug": "dotted",
+        "Page_Description": "Marked with small round spots in a regular pattern."
+    },
+    {
+        "Page_Name": "Drawing",
+        "Page_Slug": "drawing",
+        "Page_Description": "Art or action of depicting something visually using lines on a surface."
+    },
+    {
+        "Page_Name": "Dummy",
+        "Page_Slug": "dummy",
+        "Page_Description": "Mock-up or rough draft of a book or design."
+    },
+    {
+        "Page_Name": "Duotone",
+        "Page_Slug": "duotone",
+        "Page_Description": "Print or image using two colors, usually to enhance tonal range."
+    },
+    {
+        "Page_Name": "Duplexing",
+        "Page_Slug": "duplexing",
+        "Page_Description": "Adhering two sheets together for increased thickness."
+    },
+    {
+        "Page_Name": "Dust Jacket",
+        "Page_Slug": "dust-jacket",
+        "Page_Description": "Printed cover wrapped around a book for protection or decoration."
+    },
+    {
+        "Page_Name": "Easing",
+        "Page_Slug": "easing",
+        "Page_Description": "Gradual change in motion or animation for a natural look."
+    },
+    {
+        "Page_Name": "Edge Coloring",
+        "Page_Slug": "edge-coloring",
+        "Page_Description": "Applying color to the edge of books or cards."
+    },
+    {
+        "Page_Name": "Edge Marbling",
+        "Page_Slug": "edge-marbling",
+        "Page_Description": "Swirled, marbled effect applied to the edge of a book."
+    },
+    {
+        "Page_Name": "Edge-To-Edge Design",
+        "Page_Slug": "edge-to-edge-design",
+        "Page_Description": "Design where imagery or color extends to the very edge of the medium."
+    },
+    {
+        "Page_Name": "Emboss/Deboss",
+        "Page_Slug": "emboss-deboss",
+        "Page_Description": "Process to create raised (emboss) or recessed (deboss) designs on a surface."
+    },
+    {
+        "Page_Name": "Embossing",
+        "Page_Slug": "embossing",
+        "Page_Description": "Process to create raised patterns or images on a surface."
+    },
+    {
+        "Page_Name": "Embossing Stamp",
+        "Page_Slug": "embossing-stamp",
+        "Page_Description": "Tool used to create raised designs on materials."
+    },
+    {
+        "Page_Name": "Encapsulated Postscript",
+        "Page_Slug": "encapsulated-postscript",
+        "Page_Description": "Graphic file format allowing for vector graphics and text."
+    },
+    {
+        "Page_Name": "Engraving",
+        "Page_Slug": "engraving",
+        "Page_Description": "Process of cutting or carving into a surface to produce an image."
+    },
+    {
+        "Page_Name": "Environmental Design",
+        "Page_Slug": "environmental-design",
+        "Page_Description": "Design related to the physical surroundings and human interaction."
+    },
+    {
+        "Page_Name": "Ethical Design",
+        "Page_Slug": "ethical-design",
+        "Page_Description": "Design that respects users' rights and well-being."
+    },
+    {
+        "Page_Name": "Even Page",
+        "Page_Slug": "even-page",
+        "Page_Description": "Left-hand page in a double-sided document."
+    },
+    {
+        "Page_Name": "Expandable Menu",
+        "Page_Slug": "expandable-menu",
+        "Page_Description": "UI menu that can be opened or closed to show more options."
+    },
+    {
+        "Page_Name": "Experience Design",
+        "Page_Slug": "experience-design",
+        "Page_Description": "Design focusing on the overall feel and experience of a user."
+    },
+    {
+        "Page_Name": "Exposed Binding",
+        "Page_Slug": "exposed-binding",
+        "Page_Description": "Binding where the stitching or glue is visible at the spine."
+    },
+    {
+        "Page_Name": "Extended Reality",
+        "Page_Slug": "extended-reality",
+        "Page_Description": "All immersive digital experiences, including AR, VR, and MR."
+    },
+    {
+        "Page_Name": "Fidelity",
+        "Page_Slug": "fidelity",
+        "Page_Description": "Degree of detail and functionality in a prototype or design."
+    },
+    {
+        "Page_Name": "Field",
+        "Page_Slug": "field",
+        "Page_Description": "Specific area for input or data, such as on a form."
+    },
+    {
+        "Page_Name": "File",
+        "Page_Slug": "file",
+        "Page_Description": "Digital document or container for data."
+    },
+    {
+        "Page_Name": "Fillet",
+        "Page_Slug": "fillet",
+        "Page_Description": "Rounded edge, often used in design or architecture."
+    },
+    {
+        "Page_Name": "Film",
+        "Page_Slug": "film",
+        "Page_Description": "Thin, flexible material for images or recordings."
+    },
+    {
+        "Page_Name": "First Line Indent",
+        "Page_Slug": "first-line-indent",
+        "Page_Description": "Space before the start of a paragraph’s first line."
+    },
+    {
+        "Page_Name": "Flat Design",
+        "Page_Slug": "flat-design",
+        "Page_Description": "Design style emphasizing minimalism and no 3D effects."
+    },
+    {
+        "Page_Name": "Flat Spine",
+        "Page_Slug": "flat-spine",
+        "Page_Description": "Bookbinding with a flat, rather than rounded, spine."
+    },
+    {
+        "Page_Name": "Flexibound",
+        "Page_Slug": "flexibound",
+        "Page_Description": "Binding using a flexible cover; softer than hardcover but sturdier than paperback."
+    },
+    {
+        "Page_Name": "Flexography",
+        "Page_Slug": "flexography",
+        "Page_Description": "Printing using raised and flexible plates, often for packaging."
+    },
+    {
+        "Page_Name": "Floating Action Button",
+        "Page_Slug": "floating-action-button",
+        "Page_Description": "Circular button floating above UI, promoting a primary action."
+    },
+    {
+        "Page_Name": "Flood",
+        "Page_Slug": "flood",
+        "Page_Description": "Complete coverage of ink or coating over a material."
+    },
+    {
+        "Page_Name": "Flowchart",
+        "Page_Slug": "flowchart",
+        "Page_Description": "Diagram showing stages in a process or system."
+    },
+    {
+        "Page_Name": "Fluent Design System",
+        "Page_Slug": "fluent-design-system",
+        "Page_Description": "Microsoft's design approach emphasizing light, motion, and depth."
+    },
+    {
+        "Page_Name": "Fluid Ui",
+        "Page_Slug": "fluid-ui",
+        "Page_Description": "Design approach where layout adapts to screen size."
+    },
+    {
+        "Page_Name": "Flush Left (Text)",
+        "Page_Slug": "flush-left-text",
+        "Page_Description": "Text aligned to the left margin, ragged on the right."
+    },
+    {
+        "Page_Name": "Flush Right (Text)",
+        "Page_Slug": "flush-right-text",
+        "Page_Description": "Text aligned to the right margin, ragged on the left."
+    },
+    {
+        "Page_Name": "Fluting",
+        "Page_Slug": "fluting",
+        "Page_Description": "Corrugated appearance on a material's surface."
+    },
+    {
+        "Page_Name": "Flyer",
+        "Page_Slug": "flyer",
+        "Page_Description": "Small handbill or advertisement."
+    },
+    {
+        "Page_Name": "Fold",
+        "Page_Slug": "fold",
+        "Page_Description": "Bend or crease, especially in paper."
+    },
+    {
+        "Page_Name": "Fold-Out",
+        "Page_Slug": "fold-out",
+        "Page_Description": "Page or panel that can be extended beyond its usual size."
+    },
+    {
+        "Page_Name": "Font",
+        "Page_Slug": "font",
+        "Page_Description": "Collection of characters in a specific style and size."
+    },
+    {
+        "Page_Name": "Font Family",
+        "Page_Slug": "font-family",
+        "Page_Description": "Group of fonts sharing design characteristics."
+    },
+    {
+        "Page_Name": "Foot Margin",
+        "Page_Slug": "foot-margin",
+        "Page_Description": "Space at the bottom of a page, below the main content."
+    },
+    {
+        "Page_Name": "Foreground",
+        "Page_Slug": "foreground",
+        "Page_Description": "Elements in a scene or design closest to the viewer."
+    },
+    {
+        "Page_Name": "Form Follows Function",
+        "Page_Slug": "form-follows-function",
+        "Page_Description": "Design philosophy emphasizing that a design should arise from its function."
+    },
+    {
+        "Page_Name": "Format",
+        "Page_Slug": "format",
+        "Page_Description": "Structure or arrangement; the layout or size of a medium."
+    },
+    {
+        "Page_Name": "Four Over Four (4/4)",
+        "Page_Slug": "four-over-four-4-4",
+        "Page_Description": "Printing in full color (CMYK) on both sides of a sheet."
+    },
+    {
+        "Page_Name": "Four Over One (4/1)",
+        "Page_Slug": "four-over-one-4-1",
+        "Page_Description": "Full color on one side, black on the reverse."
+    },
+    {
+        "Page_Name": "Four Over Three (4/3)",
+        "Page_Slug": "four-over-three-4-3",
+        "Page_Description": "Full color on one side, three colors on the reverse."
+    },
+    {
+        "Page_Name": "Four Over Two (4/2)",
+        "Page_Slug": "four-over-two-4-2",
+        "Page_Description": "Full color on one side, two colors on the reverse."
+    },
+    {
+        "Page_Name": "Four Over Zero (4/0)",
+        "Page_Slug": "four-over-zero-4-0",
+        "Page_Description": "Full color on one side, no print on the reverse."
+    },
+    {
+        "Page_Name": "Frame Rate",
+        "Page_Slug": "frame-rate",
+        "Page_Description": "Frequency at which consecutive images (frames) appear in a display."
+    },
+    {
+        "Page_Name": "Framing",
+        "Page_Slug": "framing",
+        "Page_Description": "Technique of visually positioning subjects within borders."
+    },
+    {
+        "Page_Name": "Free-Standing Insert",
+        "Page_Slug": "free-standing-insert",
+        "Page_Description": "Printed promotion inserted into a publication without binding."
+    },
+    {
+        "Page_Name": "Freeform Paths",
+        "Page_Slug": "freeform-paths",
+        "Page_Description": "Paths that aren't constrained to a specific shape or curve."
+    },
+    {
+        "Page_Name": "Full-Bleed",
+        "Page_Slug": "full-bleed",
+        "Page_Description": "Design extends to the edge without margins."
+    },
+    {
+        "Page_Name": "Full-Stack Designer",
+        "Page_Slug": "full-stack-designer",
+        "Page_Description": "Designer skilled in both design and coding."
+    },
+    {
+        "Page_Name": "Gang Run",
+        "Page_Slug": "gang-run",
+        "Page_Description": "Printing multiple jobs on a single sheet to save costs."
+    },
+    {
+        "Page_Name": "Gatefold",
+        "Page_Slug": "gatefold",
+        "Page_Description": "Brochure or folder opening with two symmetrical flaps."
+    },
+    {
+        "Page_Name": "Generative Design",
+        "Page_Slug": "generative-design",
+        "Page_Description": "Design process aided by algorithms to generate outputs."
+    },
+    {
+        "Page_Name": "Gestural Interface",
+        "Page_Slug": "gestural-interface",
+        "Page_Description": "UI that recognizes gestures, like pinching or swiping."
+    },
+    {
+        "Page_Name": "Ghost Button",
+        "Page_Slug": "ghost-button",
+        "Page_Description": "Transparent UI button with a visible border and no fill color."
+    },
+    {
+        "Page_Name": "Ghosting",
+        "Page_Slug": "ghosting",
+        "Page_Description": "Faint secondary image caused by ink transfer or misregistration."
+    },
+    {
+        "Page_Name": "Glitter",
+        "Page_Slug": "glitter",
+        "Page_Description": "Tiny reflective particles for decorative purposes."
+    },
+    {
+        "Page_Name": "Gloss",
+        "Page_Slug": "gloss",
+        "Page_Description": "Shiny or lustrous surface."
+    },
+    {
+        "Page_Name": "Golden Ratio",
+        "Page_Slug": "golden-ratio",
+        "Page_Description": "Proportional relationship, approx. 1.618 to 1, often used in design."
+    },
+    {
+        "Page_Name": "Gradient",
+        "Page_Slug": "gradient",
+        "Page_Description": "Transition between two or more colors."
+    },
+    {
+        "Page_Name": "Gradient Mesh",
+        "Page_Slug": "gradient-mesh",
+        "Page_Description": "Tool in graphics software to create complex color gradients."
+    },
+    {
+        "Page_Name": "Graphic Arts",
+        "Page_Slug": "graphic-arts",
+        "Page_Description": "Visual arts related to print media."
+    },
+    {
+        "Page_Name": "Graphic Design",
+        "Page_Slug": "graphic-design",
+        "Page_Description": "Art of combining text and graphics to communicate effectively."
+    },
+    {
+        "Page_Name": "Graphical User Interface (Gui)",
+        "Page_Slug": "graphical-user-interface-gui",
+        "Page_Description": "Interface where users interact with graphics rather than text commands."
+    },
+    {
+        "Page_Name": "Graphism",
+        "Page_Slug": "graphism",
+        "Page_Description": "Visual representation or graphical expression."
+    },
+    {
+        "Page_Name": "Grid System",
+        "Page_Slug": "grid-system",
+        "Page_Description": "Framework of intersecting lines used to structure content."
+    },
+    {
+        "Page_Name": "Gutter",
+        "Page_Slug": "gutter",
+        "Page_Description": "Space between facing pages or an inner margin of a book."
+    },
+    {
+        "Page_Name": "Hairline",
+        "Page_Slug": "hairline",
+        "Page_Description": "Very thin line or small gap."
+    },
+    {
+        "Page_Name": "Half-Cut",
+        "Page_Slug": "half-cut",
+        "Page_Description": "Sticker or label cut through only the top layer, not the backing."
+    },
+    {
+        "Page_Name": "Halftone",
+        "Page_Slug": "halftone",
+        "Page_Description": "Reproduction of continuous tone graphics using dots."
+    },
+    {
+        "Page_Name": "Hanging Indent",
+        "Page_Slug": "hanging-indent",
+        "Page_Description": "Paragraph format where all but the first line is indented."
+    },
+    {
+        "Page_Name": "Head Margin",
+        "Page_Slug": "head-margin",
+        "Page_Description": "Space at the top of a page, above the main content."
+    },
+    {
+        "Page_Name": "Header",
+        "Page_Slug": "header",
+        "Page_Description": "Text or graphics at the top of a document or section."
+    },
+    {
+        "Page_Name": "Helper Element",
+        "Page_Slug": "helper-element",
+        "Page_Description": "UI element providing assistance or guidance."
+    },
+    {
+        "Page_Name": "Heptachromy",
+        "Page_Slug": "heptachromy",
+        "Page_Description": "Printing with seven colors to enhance color gamut."
+    },
+    {
+        "Page_Name": "Hero Image",
+        "Page_Slug": "hero-image",
+        "Page_Description": "Prominent image, typically on web pages, representing content/theme."
+    },
+    {
+        "Page_Name": "Hexachromy",
+        "Page_Slug": "hexachromy",
+        "Page_Description": "Printing with six colors for broader color gamut."
+    },
+    {
+        "Page_Name": "Hickey",
+        "Page_Slug": "hickey",
+        "Page_Description": "Unexpected spot or imperfection in print."
+    },
+    {
+        "Page_Name": "Hierarchy",
+        "Page_Slug": "hierarchy",
+        "Page_Description": "Arrangement showing importance of elements."
+    },
+    {
+        "Page_Name": "High Fidelity Prototype",
+        "Page_Slug": "high-fidelity-prototype",
+        "Page_Description": "Detailed representation of the final design."
+    },
+    {
+        "Page_Name": "Hollow",
+        "Page_Slug": "hollow",
+        "Page_Description": "Empty or unfilled space in a design."
+    },
+    {
+        "Page_Name": "Hologram",
+        "Page_Slug": "hologram",
+        "Page_Description": "Three-dimensional image formed by light interference."
+    },
+    {
+        "Page_Name": "How Might We",
+        "Page_Slug": "how-might-we",
+        "Page_Description": "Framework phrase in design thinking to start ideation."
+    },
+    {
+        "Page_Name": "HSB",
+        "Page_Slug": "hsb",
+        "Page_Description": "Hue, Saturation, Brightness - color model."
+    },
+    {
+        "Page_Name": "Hue",
+        "Page_Slug": "hue",
+        "Page_Description": "A distinct color or shade."
+    },
+    {
+        "Page_Name": "Human Interface Guidelines",
+        "Page_Slug": "human-interface-guidelines",
+        "Page_Description": "Principles guiding the design of user interfaces."
+    },
+    {
+        "Page_Name": "Human-Centered Design",
+        "Page_Slug": "human-centered-design",
+        "Page_Description": "Design approach prioritizing users' needs and experiences."
+    },
+    {
+        "Page_Name": "Hyperrealism",
+        "Page_Slug": "hyperrealism",
+        "Page_Description": "Art mimicking reality in extreme detail, surpassing traditional realism."
+    },
+    {
+        "Page_Name": "Hyphenation",
+        "Page_Slug": "hyphenation",
+        "Page_Description": "Breaking a word with a hyphen to fit within line constraints."
+    },
+    {
+        "Page_Name": "Icons",
+        "Page_Slug": "icons",
+        "Page_Description": "Simplified visual symbols representing concepts or actions."
+    },
+    {
+        "Page_Name": "Illustrated Book",
+        "Page_Slug": "illustrated-book",
+        "Page_Description": "Book that uses illustrations as its primary or complementary content."
+    },
+    {
+        "Page_Name": "Illustration",
+        "Page_Slug": "illustration",
+        "Page_Description": "Visual artwork representing or explaining a concept or story."
+    },
+    {
+        "Page_Name": "Image",
+        "Page_Slug": "image",
+        "Page_Description": "Representation of visual information in a photo or graphic."
+    },
+    {
+        "Page_Name": "Image Compression",
+        "Page_Slug": "image-compression",
+        "Page_Description": "Reducing file size of images, potentially compromising quality."
+    },
+    {
+        "Page_Name": "Image Tracing",
+        "Page_Slug": "image-tracing",
+        "Page_Description": "Process to convert raster images to vector graphics."
+    },
+    {
+        "Page_Name": "Impose",
+        "Page_Slug": "impose",
+        "Page_Description": "To arrange printed matter in a specific order on a sheet."
+    },
+    {
+        "Page_Name": "Imposition",
+        "Page_Slug": "imposition",
+        "Page_Description": "Process of preparing print pages for double-sided printing."
+    },
+    {
+        "Page_Name": "Imposition Draft",
+        "Page_Slug": "imposition-draft",
+        "Page_Description": "Layout showing how pages are imposed for printing."
+    },
+    {
+        "Page_Name": "Imposition Scheme",
+        "Page_Slug": "imposition-scheme",
+        "Page_Description": "Detailed plan for how pages will be arranged for printing."
+    },
+    {
+        "Page_Name": "In-Octavo",
+        "Page_Slug": "in-octavo",
+        "Page_Description": "Book size resulting from folding a sheet into eight leaves."
+    },
+    {
+        "Page_Name": "In-Quarto",
+        "Page_Slug": "in-quarto",
+        "Page_Description": "Book size from folding a sheet into four leaves."
+    },
+    {
+        "Page_Name": "In-Sixteen",
+        "Page_Slug": "in-sixteen",
+        "Page_Description": "Book size from folding a sheet into sixteen leaves."
+    },
+    {
+        "Page_Name": "Inbetweens",
+        "Page_Slug": "inbetweens",
+        "Page_Description": "Animation frames between keyframes to create motion smoothness."
+    },
+    {
+        "Page_Name": "Inclusive Design",
+        "Page_Slug": "inclusive-design",
+        "Page_Description": "Design addressing and including the diversity of users' needs."
+    },
+    {
+        "Page_Name": "Indent",
+        "Page_Slug": "indent",
+        "Page_Description": "Space left at the beginning of a paragraph."
+    },
+    {
+        "Page_Name": "Indenting",
+        "Page_Slug": "indenting",
+        "Page_Description": "Act of creating indents."
+    },
+    {
+        "Page_Name": "Indirect Printing",
+        "Page_Slug": "indirect-printing",
+        "Page_Description": "Printing where ink is transferred to an intermediate surface first."
+    },
+    {
+        "Page_Name": "Infographic",
+        "Page_Slug": "infographic",
+        "Page_Description": "Visual representation of information or data."
+    },
+    {
+        "Page_Name": "Information Architecture (Ia)",
+        "Page_Slug": "information-architecture-ia",
+        "Page_Description": "Structuring and organization of information in a product or website."
+    },
+    {
+        "Page_Name": "Information Hierarchy",
+        "Page_Slug": "information-hierarchy",
+        "Page_Description": "Arranging information by its level of importance."
+    },
+    {
+        "Page_Name": "Ink",
+        "Page_Slug": "ink",
+        "Page_Description": "Pigmented fluid used for printing or writing."
+    },
+    {
+        "Page_Name": "Ink Fountain",
+        "Page_Slug": "ink-fountain",
+        "Page_Description": "Reservoir holding ink in a printing press."
+    },
+    {
+        "Page_Name": "Ink Set-Off",
+        "Page_Slug": "ink-set-off",
+        "Page_Description": "Unwanted transfer of ink from one printed sheet to another."
+    },
+    {
+        "Page_Name": "Inkjet",
+        "Page_Slug": "inkjet",
+        "Page_Description": "Printing method spraying ink droplets onto a medium."
+    },
+    {
+        "Page_Name": "Inner Margin",
+        "Page_Slug": "inner-margin",
+        "Page_Description": "Margin closest to the binding of a book or publication."
+    },
+    {
+        "Page_Name": "Input Elements",
+        "Page_Slug": "input-elements",
+        "Page_Description": "Components where users enter data (e.g., text boxes, checkboxes)."
+    },
+    {
+        "Page_Name": "Inserting",
+        "Page_Slug": "inserting",
+        "Page_Description": "Action of adding or incorporating an element into another."
+    },
+    {
+        "Page_Name": "Intaglio",
+        "Page_Slug": "intaglio",
+        "Page_Description": "Printmaking where the image is incised into a surface."
+    },
+    {
+        "Page_Name": "Interaction Design",
+        "Page_Slug": "interaction-design",
+        "Page_Description": "Design of interactive digital products and systems."
+    },
+    {
+        "Page_Name": "Interaction Designer",
+        "Page_Slug": "interaction-designer",
+        "Page_Description": "Professional designing interactions in products or systems."
+    },
+    {
+        "Page_Name": "Intuitive Design",
+        "Page_Slug": "intuitive-design",
+        "Page_Description": "Design that's user-friendly and easily understood without instruction."
+    },
+    {
+        "Page_Name": "Inverted Grain",
+        "Page_Slug": "inverted-grain",
+        "Page_Description": "When grain of paper runs perpendicular to its longer dimension."
+    },
+    {
+        "Page_Name": "Isolate State",
+        "Page_Slug": "isolate-state",
+        "Page_Description": "A design or mode where only a single element is in focus."
+    },
+    {
+        "Page_Name": "Italic",
+        "Page_Slug": "italic",
+        "Page_Description": "Text style with a slight tilt, often for emphasis or distinction."
+    },
+    {
+        "Page_Name": "Italtype",
+        "Page_Slug": "italtype",
+        "Page_Description": "A type of tilted typeface mimicking handwriting."
+    },
+    {
+        "Page_Name": "Iterative Design",
+        "Page_Slug": "iterative-design",
+        "Page_Description": "Design process involving repeated cycles of testing and refining."
+    },
+    {
+        "Page_Name": "Job Stories",
+        "Page_Slug": "job-stories",
+        "Page_Description": "Scenario-based approach to user-centric design and feature creation."
+    },
+    {
+        "Page_Name": "Jog",
+        "Page_Slug": "jog",
+        "Page_Description": "Aligning sheets of paper by shaking them into a square stack."
+    },
+    {
+        "Page_Name": "Joint",
+        "Page_Slug": "joint",
+        "Page_Description": "Connection point between two elements or materials."
+    },
+    {
+        "Page_Name": "Journey Maps",
+        "Page_Slug": "journey-maps",
+        "Page_Description": "Visualizations of a user's interaction journey with a product."
+    },
+    {
+        "Page_Name": "Jpeg",
+        "Page_Slug": "jpeg",
+        "Page_Description": "Popular image file format known for compression and lossiness."
+    },
+    {
+        "Page_Name": "Justifed Right",
+        "Page_Slug": "justifed-right",
+        "Page_Description": "Text aligned to the right margin."
+    },
+    {
+        "Page_Name": "Justification",
+        "Page_Slug": "justification",
+        "Page_Description": "Adjusting spacing between words so lines align with a set shape."
+    },
+    {
+        "Page_Name": "Justified",
+        "Page_Slug": "justified",
+        "Page_Description": "Text that's aligned with both left and right margins."
+    },
+    {
+        "Page_Name": "Justified Left",
+        "Page_Slug": "justified-left",
+        "Page_Description": "Text aligned to the left margin."
+    },
+    {
+        "Page_Name": "Juxtaposition",
+        "Page_Slug": "juxtaposition",
+        "Page_Description": "Placing things side by side for contrast."
+    },
+    {
+        "Page_Name": "Kelvin Color Temperature",
+        "Page_Slug": "kelvin-color-temperature",
+        "Page_Description": "Scale measuring color temperature, primarily for light sources."
+    },
+    {
+        "Page_Name": "Kerning",
+        "Page_Slug": "kerning",
+        "Page_Description": "Adjusting space between individual letters in typography."
+    },
+    {
+        "Page_Name": "Keyframe",
+        "Page_Slug": "keyframe",
+        "Page_Description": "Specific point in animation where a change or movement happens."
+    },
+    {
+        "Page_Name": "Keyline",
+        "Page_Slug": "keyline",
+        "Page_Description": "Outline surrounding an image or text."
+    },
+    {
+        "Page_Name": "Kinetic Typography",
+        "Page_Slug": "kinetic-typography",
+        "Page_Description": "Text movement and transformation synchronized with spoken content."
+    },
+    {
+        "Page_Name": "Kitsch",
+        "Page_Slug": "kitsch",
+        "Page_Description": "Art, objects, or design perceived as being in poor taste."
+    },
+    {
+        "Page_Name": "Knockout Text",
+        "Page_Slug": "knockout-text",
+        "Page_Description": "Text that's transparent and shows the background behind it."
+    },
+    {
+        "Page_Name": "Label",
+        "Page_Slug": "label",
+        "Page_Description": "Material affixed on objects to provide information."
+    },
+    {
+        "Page_Name": "Lamination",
+        "Page_Slug": "lamination",
+        "Page_Description": "Process of sealing printed material between protective layers."
+    },
+    {
+        "Page_Name": "Landscape",
+        "Page_Slug": "landscape",
+        "Page_Description": "Horizontal orientation of a page or image."
+    },
+    {
+        "Page_Name": "Lay-Flat Binding",
+        "Page_Slug": "lay-flat-binding",
+        "Page_Description": "Binding allowing a publication to lay completely flat when open."
+    },
+    {
+        "Page_Name": "Layout",
+        "Page_Slug": "layout",
+        "Page_Description": "Arrangement of visual elements in design."
+    },
+    {
+        "Page_Name": "Leading",
+        "Page_Slug": "leading",
+        "Page_Description": "Vertical spacing between lines of text."
+    },
+    {
+        "Page_Name": "Lean Ux",
+        "Page_Slug": "lean-ux",
+        "Page_Description": "Design approach prioritizing speed and iterative cycles."
+    },
+    {
+        "Page_Name": "Left Page",
+        "Page_Slug": "left-page",
+        "Page_Description": "Page on the left when a book or magazine is open."
+    },
+    {
+        "Page_Name": "Legibility",
+        "Page_Slug": "legibility",
+        "Page_Description": "Clarity with which text can be read, considering font and design."
+    },
+    {
+        "Page_Name": "Letter",
+        "Page_Slug": "letter",
+        "Page_Description": "Character or group of characters representing a sound or word."
+    },
+    {
+        "Page_Name": "Letter Case",
+        "Page_Slug": "letter-case",
+        "Page_Description": "Distinction between upper and lowercase letters."
+    },
+    {
+        "Page_Name": "Letterpress",
+        "Page_Slug": "letterpress",
+        "Page_Description": "Printing technique where a raised surface is inked and pressed onto paper."
+    },
+    {
+        "Page_Name": "Line Art",
+        "Page_Slug": "line-art",
+        "Page_Description": "Drawing consisting only of lines without any shading or coloring."
+    },
+    {
+        "Page_Name": "Line Break",
+        "Page_Slug": "line-break",
+        "Page_Description": "Point where a line of text ends and a new one begins."
+    },
+    {
+        "Page_Name": "Line Height",
+        "Page_Slug": "line-height",
+        "Page_Description": "Vertical distance between lines of text."
+    },
+    {
+        "Page_Name": "Line Of Text",
+        "Page_Slug": "line-of-text",
+        "Page_Description": "A continuous sequence of characters until a line break."
+    },
+    {
+        "Page_Name": "Line Space",
+        "Page_Slug": "line-space",
+        "Page_Description": "Space between lines of text."
+    },
+    {
+        "Page_Name": "List Boxes",
+        "Page_Slug": "list-boxes",
+        "Page_Description": "UI elements allowing users to select one or more items from a list."
+    },
+    {
+        "Page_Name": "Live Area",
+        "Page_Slug": "live-area",
+        "Page_Description": "The portion of a design expected to be visible in the final product."
+    },
+    {
+        "Page_Name": "Logo",
+        "Page_Slug": "logo",
+        "Page_Description": "Symbolic design representing a brand or organization."
+    },
+    {
+        "Page_Name": "Logomark/Logotype",
+        "Page_Slug": "logomark-logotype",
+        "Page_Description": "A brand emblem without text vs. brand name in a stylized text."
+    },
+    {
+        "Page_Name": "Logotype",
+        "Page_Slug": "logotype",
+        "Page_Description": "The representation of a brand or entity in unique typography."
+    },
+    {
+        "Page_Name": "Long Shadow",
+        "Page_Slug": "long-shadow",
+        "Page_Description": "Design style using flat icons with elongated, angled shadows."
+    },
+    {
+        "Page_Name": "Lorem Ipsum",
+        "Page_Slug": "lorem-ipsum",
+        "Page_Description": "Placeholder text used in design to mimic actual content."
+    },
+    {
+        "Page_Name": "Low Fidelity Prototype",
+        "Page_Slug": "low-fidelity-prototype",
+        "Page_Description": "Basic representation of a product, used for early testing or review."
+    },
+    {
+        "Page_Name": "Lowercase",
+        "Page_Slug": "lowercase",
+        "Page_Description": "Small letter, not capitalized."
+    },
+    {
+        "Page_Name": "LPI",
+        "Page_Slug": "lpi",
+        "Page_Description": "Lines per inch; measure of resolution for halftone images."
+    },
+    {
+        "Page_Name": "Magazine",
+        "Page_Slug": "magazine",
+        "Page_Description": "Periodical publication containing articles, images, and advertisements."
+    },
+    {
+        "Page_Name": "Majuscule",
+        "Page_Slug": "majuscule",
+        "Page_Description": "Another term for uppercase or capital letters."
+    },
+    {
+        "Page_Name": "Manuscript",
+        "Page_Slug": "manuscript",
+        "Page_Description": "Original handwritten or typed version of a book or paper."
+    },
+    {
+        "Page_Name": "Marbled Paper",
+        "Page_Slug": "marbled-paper",
+        "Page_Description": "Paper swirled with colorful inks to produce intricate patterns."
+    },
+    {
+        "Page_Name": "Marbling",
+        "Page_Slug": "marbling",
+        "Page_Description": "Art of creating marbled patterns, often on paper or fabric."
+    },
+    {
+        "Page_Name": "Margin And Padding",
+        "Page_Slug": "margin-and-padding",
+        "Page_Description": "Space around content (margin) and between elements (padding)."
+    },
+    {
+        "Page_Name": "Mask",
+        "Page_Slug": "mask",
+        "Page_Description": "Overlay used to protect or hide portions of a design."
+    },
+    {
+        "Page_Name": "Material Design",
+        "Page_Slug": "material-design",
+        "Page_Description": "Design language by Google emphasizing card-based designs."
+    },
+    {
+        "Page_Name": "Matte",
+        "Page_Slug": "matte",
+        "Page_Description": "Dull and non-shiny finish."
+    },
+    {
+        "Page_Name": "Megamenu",
+        "Page_Slug": "megamenu",
+        "Page_Description": "Large navigation dropdown with options in a visual layout."
+    },
+    {
+        "Page_Name": "Mesh",
+        "Page_Slug": "mesh",
+        "Page_Description": "Network of interwoven lines or a gradient-filled structure in graphics."
+    },
+    {
+        "Page_Name": "Message Boxes",
+        "Page_Slug": "message-boxes",
+        "Page_Description": "UI elements displaying messages or notifications to the user."
+    },
+    {
+        "Page_Name": "Microcopy",
+        "Page_Slug": "microcopy",
+        "Page_Description": "Small bits of text guiding users in an interface."
+    },
+    {
+        "Page_Name": "Microinteractions",
+        "Page_Slug": "microinteractions",
+        "Page_Description": "Small design details highlighting a change or action in an interface."
+    },
+    {
+        "Page_Name": "Midline",
+        "Page_Slug": "midline",
+        "Page_Description": "Horizontal line positioned between the top and bottom of a design element."
+    },
+    {
+        "Page_Name": "Midtone",
+        "Page_Slug": "midtone",
+        "Page_Description": "Tone in an image that's midway between its lightest and darkest areas."
+    },
+    {
+        "Page_Name": "Mind Map",
+        "Page_Slug": "mind-map",
+        "Page_Description": "Diagram used to visually organize information, branching from a central idea."
+    },
+    {
+        "Page_Name": "Minuscule",
+        "Page_Slug": "minuscule",
+        "Page_Description": "Small letter in a typeface, not uppercase."
+    },
+    {
+        "Page_Name": "Mobcap",
+        "Page_Slug": "mobcap",
+        "Page_Description": "Small printed ornament or design."
+    },
+    {
+        "Page_Name": "Mobile Web",
+        "Page_Slug": "mobile-web",
+        "Page_Description": "Websites designed and optimized for mobile device access."
+    },
+    {
+        "Page_Name": "Mockup",
+        "Page_Slug": "mockup",
+        "Page_Description": "A prototype or model of a design."
+    },
+    {
+        "Page_Name": "Modal Windows",
+        "Page_Slug": "modal-windows",
+        "Page_Description": "Overlays or pop-up windows on a screen."
+    },
+    {
+        "Page_Name": "Moire",
+        "Page_Slug": "moire",
+        "Page_Description": "Unwanted patterns when superimposing repetitive layers."
+    },
+    {
+        "Page_Name": "Monochromy",
+        "Page_Slug": "monochromy",
+        "Page_Description": "Using only one color or hue."
+    },
+    {
+        "Page_Name": "Mood Board",
+        "Page_Slug": "mood-board",
+        "Page_Description": "Visual tool displaying imagery, text, and concepts for a project's tone."
+    },
+    {
+        "Page_Name": "Motion Design",
+        "Page_Slug": "motion-design",
+        "Page_Description": "Designing for movement in graphic arts."
+    },
+    {
+        "Page_Name": "Motion Graphics",
+        "Page_Slug": "motion-graphics",
+        "Page_Description": "Animation or moving elements in digital design."
+    },
+    {
+        "Page_Name": "Movable Type",
+        "Page_Slug": "movable-type",
+        "Page_Description": "Typesetting system where individual letters can be moved and rearranged."
+    },
+    {
+        "Page_Name": "Multicolor",
+        "Page_Slug": "multicolor",
+        "Page_Description": "More than one color; multicolored."
+    },
+    {
+        "Page_Name": "Native Advertising",
+        "Page_Slug": "native-advertising",
+        "Page_Description": "Ads that match the look and feel of the media format they appear in."
+    },
+    {
+        "Page_Name": "Navigation Menu",
+        "Page_Slug": "navigation-menu",
+        "Page_Description": "Set of links used to navigate a website or application."
+    },
+    {
+        "Page_Name": "Negative",
+        "Page_Slug": "negative",
+        "Page_Description": "Image where light areas appear dark and vice versa."
+    },
+    {
+        "Page_Name": "Negative Space",
+        "Page_Slug": "negative-space",
+        "Page_Description": "Empty or unmarked space in a design."
+    },
+    {
+        "Page_Name": "Node Type",
+        "Page_Slug": "node-type",
+        "Page_Description": "Point or connection in a network or system in graphic design."
+    },
+    {
+        "Page_Name": "Noise",
+        "Page_Slug": "noise",
+        "Page_Description": "Unwanted disturbances superimposed on a signal or image."
+    },
+    {
+        "Page_Name": "Nudge",
+        "Page_Slug": "nudge",
+        "Page_Description": "Small shift or adjustment in design, often in layout tools."
+    },
+    {
+        "Page_Name": "Object-Oriented Design",
+        "Page_Slug": "object-oriented-design",
+        "Page_Description": "Design based on grouping related properties and behaviors into objects."
+    },
+    {
+        "Page_Name": "Offset",
+        "Page_Slug": "offset",
+        "Page_Description": "Positioning of an image slightly away from its intended location."
+    },
+    {
+        "Page_Name": "Offset Printing",
+        "Page_Slug": "offset-printing",
+        "Page_Description": "Printing technique where inked image is transferred to a rubber blanket, then paper."
+    },
+    {
+        "Page_Name": "Offset Varnish",
+        "Page_Slug": "offset-varnish",
+        "Page_Description": "Clear or colored varnish applied using an offset press."
+    },
+    {
+        "Page_Name": "Offset White",
+        "Page_Slug": "offset-white",
+        "Page_Description": "Adjustment in printing to compensate for whiteness."
+    },
+    {
+        "Page_Name": "One Over One (1/1)",
+        "Page_Slug": "one-over-one-1-1",
+        "Page_Description": "Printing one color on the front and one on the back."
+    },
+    {
+        "Page_Name": "One Over Zero (1/0)",
+        "Page_Slug": "one-over-zero-1-0",
+        "Page_Description": "Printing one color on the front, none on the back."
+    },
+    {
+        "Page_Name": "Opacity",
+        "Page_Slug": "opacity",
+        "Page_Description": "Degree to which an element is transparent or see-through."
+    },
+    {
+        "Page_Name": "Opacity Mask",
+        "Page_Slug": "opacity-mask",
+        "Page_Description": "Control layer for an image, determining its level of transparency."
+    },
+    {
+        "Page_Name": "Opaque White",
+        "Page_Slug": "opaque-white",
+        "Page_Description": "A solid, non-transparent white."
+    },
+    {
+        "Page_Name": "Organic Design",
+        "Page_Slug": "organic-design",
+        "Page_Description": "Design approach inspired by nature and its organic forms."
+    },
+    {
+        "Page_Name": "Ornament",
+        "Page_Slug": "ornament",
+        "Page_Description": "Decorative element or motif in art or design."
+    },
+    {
+        "Page_Name": "Orphan",
+        "Page_Slug": "orphan",
+        "Page_Description": "Single line of text at the beginning or end of a column left alone."
+    },
+    {
+        "Page_Name": "Outdent",
+        "Page_Slug": "outdent",
+        "Page_Description": "Reversal of an indentation, often seen in bullet lists."
+    },
+    {
+        "Page_Name": "Outer Margin",
+        "Page_Slug": "outer-margin",
+        "Page_Description": "Margin on the outside of the page, opposite the binding."
+    },
+    {
+        "Page_Name": "Overprint",
+        "Page_Slug": "overprint",
+        "Page_Description": "Printing technique where the inked image is printed over existing ink."
+    },
+    {
+        "Page_Name": "Overprinting",
+        "Page_Slug": "overprinting",
+        "Page_Description": "The process of printing over already printed areas."
+    },
+    {
+        "Page_Name": "Oversampling",
+        "Page_Slug": "oversampling",
+        "Page_Description": "Using more data points than necessary in digital signal processing."
+    },
+    {
+        "Page_Name": "Ozalid",
+        "Page_Slug": "ozalid",
+        "Page_Description": "Blueprint process used for proofing."
+    },
+    {
+        "Page_Name": "Pack",
+        "Page_Slug": "pack",
+        "Page_Description": "Group or bundle of items wrapped together."
+    },
+    {
+        "Page_Name": "Packaging",
+        "Page_Slug": "packaging",
+        "Page_Description": "Materials used to enclose or protect products."
+    },
+    {
+        "Page_Name": "Pad",
+        "Page_Slug": "pad",
+        "Page_Description": "A block of material placed to protect or separate."
+    },
+    {
+        "Page_Name": "Pad Printing",
+        "Page_Slug": "pad-printing",
+        "Page_Description": "Printing method transferring ink from a plate to a pad, then onto an object."
+    },
+    {
+        "Page_Name": "Padding",
+        "Page_Slug": "padding",
+        "Page_Description": "Space around an element, separating it from other elements."
+    },
+    {
+        "Page_Name": "Page Height",
+        "Page_Slug": "page-height",
+        "Page_Description": "Measurement from the base to the top of a page."
+    },
+    {
+        "Page_Name": "Pagination",
+        "Page_Slug": "pagination",
+        "Page_Description": "Sequence of numbers assigned to pages in a book or document."
+    },
+    {
+        "Page_Name": "Pairing Designing",
+        "Page_Slug": "pairing-designing",
+        "Page_Description": "Collaborative design process involving two designers."
+    },
+    {
+        "Page_Name": "Pancromatic",
+        "Page_Slug": "pancromatic",
+        "Page_Description": "Sensitive to all colors of the spectrum, in context of film."
+    },
+    {
+        "Page_Name": "Panel",
+        "Page_Slug": "panel",
+        "Page_Description": "Defined section or subsection of a display or layout."
+    },
+    {
+        "Page_Name": "Pantone Matching System",
+        "Page_Slug": "pantone-matching-system",
+        "Page_Description": "Standardized color matching system used in printing and design."
+    },
+    {
+        "Page_Name": "Paper Bulk",
+        "Page_Slug": "paper-bulk",
+        "Page_Description": "Thickness of paper relative to its weight."
+    },
+    {
+        "Page_Name": "Paper Prototyping",
+        "Page_Slug": "paper-prototyping",
+        "Page_Description": "Using hand-drawn sketches to model user interfaces."
+    },
+    {
+        "Page_Name": "Paperboard",
+        "Page_Slug": "paperboard",
+        "Page_Description": "Thick paper, heavier than standard writing paper."
+    },
+    {
+        "Page_Name": "Papyrus",
+        "Page_Slug": "papyrus",
+        "Page_Description": "Material made from reed plant, used for writing in ancient times."
+    },
+    {
+        "Page_Name": "Parallax Scrolling",
+        "Page_Slug": "parallax-scrolling",
+        "Page_Description": "Visual effect where background images move slower than foreground."
+    },
+    {
+        "Page_Name": "Path",
+        "Page_Slug": "path",
+        "Page_Description": "A defined route or track for design, often in graphics software."
+    },
+    {
+        "Page_Name": "Peer Transitions",
+        "Page_Slug": "peer-transitions",
+        "Page_Description": "Visual and behavioral changes between user interface states."
+    },
+    {
+        "Page_Name": "Pen Tool",
+        "Page_Slug": "pen-tool",
+        "Page_Description": "Drawing tool in design software to create curves and lines."
+    },
+    {
+        "Page_Name": "Pencil Tool",
+        "Page_Slug": "pencil-tool",
+        "Page_Description": "Design software tool mimicking a real-world pencil."
+    },
+    {
+        "Page_Name": "Perforation",
+        "Page_Slug": "perforation",
+        "Page_Description": "Series of holes made to facilitate tearing or separating."
+    },
+    {
+        "Page_Name": "Photobashing",
+        "Page_Slug": "photobashing",
+        "Page_Description": "Combining photos to create a piece of digital artwork."
+    },
+    {
+        "Page_Name": "Photocomposition",
+        "Page_Slug": "photocomposition",
+        "Page_Description": "Arrangement of photographic images for printing."
+    },
+    {
+        "Page_Name": "Photography",
+        "Page_Slug": "photography",
+        "Page_Description": "Art and practice of capturing images with a camera."
+    },
+    {
+        "Page_Name": "Photolith Film",
+        "Page_Slug": "photolith-film",
+        "Page_Description": "Photosensitive film used in lithographic printing."
+    },
+    {
+        "Page_Name": "Photomechanical Reproduction",
+        "Page_Slug": "photomechanical-reproduction",
+        "Page_Description": "Graphic reproduction using light-sensitive processes."
+    },
+    {
+        "Page_Name": "Phototypesetting",
+        "Page_Slug": "phototypesetting",
+        "Page_Description": "Method of setting type using photographic processes."
+    },
+    {
+        "Page_Name": "Pixel",
+        "Page_Slug": "pixel",
+        "Page_Description": "Smallest visual unit of a digital image or display."
+    },
+    {
+        "Page_Name": "Pixel Density",
+        "Page_Slug": "pixel-density",
+        "Page_Description": "Measure of how many pixels appear within a linear inch of a display."
+    },
+    {
+        "Page_Name": "Pixelation",
+        "Page_Slug": "pixelation",
+        "Page_Description": "Visible blockiness of an image due to low resolution."
+    },
+    {
+        "Page_Name": "Plotter",
+        "Page_Slug": "plotter",
+        "Page_Description": "Device that plots points on paper based on digital input."
+    },
+    {
+        "Page_Name": "Points",
+        "Page_Slug": "points",
+        "Page_Description": "Small units of measure in typography, often 1/72 of an inch."
+    },
+    {
+        "Page_Name": "Polychromy",
+        "Page_Slug": "polychromy",
+        "Page_Description": "Using or involving several colors."
+    },
+    {
+        "Page_Name": "Portfolio",
+        "Page_Slug": "portfolio",
+        "Page_Description": "Collection showcasing an individual's best work or samples."
+    },
+    {
+        "Page_Name": "Poster",
+        "Page_Slug": "poster",
+        "Page_Description": "A large printed picture or notice for display."
+    },
+    {
+        "Page_Name": "Press",
+        "Page_Slug": "press",
+        "Page_Description": "Machine or process used to reproduce text and images."
+    },
+    {
+        "Page_Name": "Press Proof",
+        "Page_Slug": "press-proof",
+        "Page_Description": "Color proof made on the actual press machine."
+    },
+    {
+        "Page_Name": "Primary Colors",
+        "Page_Slug": "primary-colors",
+        "Page_Description": "Basic colors from which all other colors derive."
+    },
+    {
+        "Page_Name": "Print",
+        "Page_Slug": "print",
+        "Page_Description": "Reproduce text or images on paper or other materials."
+    },
+    {
+        "Page_Name": "Print Run",
+        "Page_Slug": "print-run",
+        "Page_Description": "Number of copies produced in one printing."
+    },
+    {
+        "Page_Name": "Printer'S Spread",
+        "Page_Slug": "printer-s-spread",
+        "Page_Description": "Two facing pages as they appear on a single sheet."
+    },
+    {
+        "Page_Name": "Printing Unit",
+        "Page_Slug": "printing-unit",
+        "Page_Description": "Part of a press that applies one ink color."
+    },
+    {
+        "Page_Name": "Process Color",
+        "Page_Slug": "process-color",
+        "Page_Description": "Printing using the CMYK standard inks."
+    },
+    {
+        "Page_Name": "Progress Bars",
+        "Page_Slug": "progress-bars",
+        "Page_Description": "Visual indicators showing progression or completion status."
+    },
+    {
+        "Page_Name": "Proximity",
+        "Page_Slug": "proximity",
+        "Page_Description": "Close positioning of elements to indicate relatedness."
+    },
+    {
+        "Page_Name": "Quadrichromy",
+        "Page_Slug": "quadrichromy",
+        "Page_Description": "Printing using four color processes, often CMYK."
+    },
+    {
+        "Page_Name": "Quadriptych",
+        "Page_Slug": "quadriptych",
+        "Page_Description": "Artwork divided across four related panels."
+    },
+    {
+        "Page_Name": "Quick Sketch",
+        "Page_Slug": "quick-sketch",
+        "Page_Description": "Brief, informal drawing capturing an idea."
+    },
+    {
+        "Page_Name": "Radio Buttons",
+        "Page_Slug": "radio-buttons",
+        "Page_Description": "UI element letting users select one option from a group."
+    },
+    {
+        "Page_Name": "Ragged Left (Text)",
+        "Page_Slug": "ragged-left-text",
+        "Page_Description": "Text aligned to the right with an uneven left edge."
+    },
+    {
+        "Page_Name": "Ragged Right (Text)",
+        "Page_Slug": "ragged-right-text",
+        "Page_Description": "Text aligned to the left with an uneven right edge."
+    },
+    {
+        "Page_Name": "Rainbow Printing",
+        "Page_Slug": "rainbow-printing",
+        "Page_Description": "Printing method using multiple colors in one pass."
+    },
+    {
+        "Page_Name": "Raster Image",
+        "Page_Slug": "raster-image",
+        "Page_Description": "Image formed by a grid of pixels."
+    },
+    {
+        "Page_Name": "Rasterization",
+        "Page_Slug": "rasterization",
+        "Page_Description": "Process converting vector graphics into raster images."
+    },
+    {
+        "Page_Name": "Redlining",
+        "Page_Slug": "redlining",
+        "Page_Description": "Marking up changes or corrections on a design."
+    },
+    {
+        "Page_Name": "Register",
+        "Page_Slug": "register",
+        "Page_Description": "Alignment of colors or layers in printing."
+    },
+    {
+        "Page_Name": "Resolution",
+        "Page_Slug": "resolution",
+        "Page_Description": "Clarity or sharpness of an image."
+    },
+    {
+        "Page_Name": "Responsive Design",
+        "Page_Slug": "responsive-design",
+        "Page_Description": "Design adjusting to different screen sizes."
+    },
+    {
+        "Page_Name": "Responsive Web Design",
+        "Page_Slug": "responsive-web-design",
+        "Page_Description": "Web design method ensuring optimal viewing across devices."
+    },
+    {
+        "Page_Name": "Retouch",
+        "Page_Slug": "retouch",
+        "Page_Description": "Edit or improve parts of artwork or photography."
+    },
+    {
+        "Page_Name": "Reverse Out",
+        "Page_Slug": "reverse-out",
+        "Page_Description": "To print the background of an image, leaving the design clear."
+    },
+    {
+        "Page_Name": "RGB",
+        "Page_Slug": "rgb",
+        "Page_Description": "Red, Green, Blue color model used in electronic displays."
+    },
+    {
+        "Page_Name": "Rich Black",
+        "Page_Slug": "rich-black",
+        "Page_Description": "A combination of ink colors for a deeper black."
+    },
+    {
+        "Page_Name": "Right Page",
+        "Page_Slug": "right-page",
+        "Page_Description": "Page on the right side of an open book."
+    },
+    {
+        "Page_Name": "Roman",
+        "Page_Slug": "roman",
+        "Page_Description": "Traditional upright style in typefaces."
+    },
+    {
+        "Page_Name": "Rotary Printing Press",
+        "Page_Slug": "rotary-printing-press",
+        "Page_Description": "Press that prints from a rotating cylinder."
+    },
+    {
+        "Page_Name": "Rotogravure",
+        "Page_Slug": "rotogravure",
+        "Page_Description": "Printing technique using a rotary press and engraved cylinder."
+    },
+    {
+        "Page_Name": "Rounded Corners",
+        "Page_Slug": "rounded-corners",
+        "Page_Description": "Edges that are smoothly curved instead of sharp."
+    },
+    {
+        "Page_Name": "Rule Of Thirds",
+        "Page_Slug": "rule-of-thirds",
+        "Page_Description": "Composition principle dividing design into nine equal segments."
+    },
+    {
+        "Page_Name": "Ruled Ornament",
+        "Page_Slug": "ruled-ornament",
+        "Page_Description": "Line used as decorative design."
+    },
+    {
+        "Page_Name": "Ruling Pen",
+        "Page_Slug": "ruling-pen",
+        "Page_Description": "Pen used to draw precise lines, often in drafting."
+    },
+    {
+        "Page_Name": "Running Indent",
+        "Page_Slug": "running-indent",
+        "Page_Description": "Indent that continues through subsequent lines."
+    },
+    {
+        "Page_Name": "Sans Serif",
+        "Page_Slug": "sans-serif",
+        "Page_Description": "Typeface without small lines at the end of characters."
+    },
+    {
+        "Page_Name": "Saturation",
+        "Page_Slug": "saturation",
+        "Page_Description": "Intensity or purity of a color."
+    },
+    {
+        "Page_Name": "Scale",
+        "Page_Slug": "scale",
+        "Page_Description": "Size relation between objects or elements."
+    },
+    {
+        "Page_Name": "Scissors Tool",
+        "Page_Slug": "scissors-tool",
+        "Page_Description": "Tool to split objects in a digital design."
+    },
+    {
+        "Page_Name": "Score",
+        "Page_Slug": "score",
+        "Page_Description": "Indentation or crease marking where paper should be folded."
+    },
+    {
+        "Page_Name": "Screen Calibration",
+        "Page_Slug": "screen-calibration",
+        "Page_Description": "Adjusting a display to ensure color accuracy."
+    },
+    {
+        "Page_Name": "Screen Printing",
+        "Page_Slug": "screen-printing",
+        "Page_Description": "Technique where ink is pushed through a mesh stencil."
+    },
+    {
+        "Page_Name": "Screen Rulling",
+        "Page_Slug": "screen-rulling",
+        "Page_Description": "The spacing of lines on a screen in printing."
+    },
+    {
+        "Page_Name": "Serif",
+        "Page_Slug": "serif",
+        "Page_Description": "Small decorative line added to the end of a letter stroke."
+    },
+    {
+        "Page_Name": "Serifed",
+        "Page_Slug": "serifed",
+        "Page_Description": "Having serifs; related to typefaces with decorative strokes."
+    },
+    {
+        "Page_Name": "Service Design",
+        "Page_Slug": "service-design",
+        "Page_Description": "Designing services to improve quality and interactions."
+    },
+    {
+        "Page_Name": "Shade",
+        "Page_Slug": "shade",
+        "Page_Description": "Variation of a color by adding black."
+    },
+    {
+        "Page_Name": "Shadow",
+        "Page_Slug": "shadow",
+        "Page_Description": "Darkened area produced by an object blocking light."
+    },
+    {
+        "Page_Name": "Shape Tool",
+        "Page_Slug": "shape-tool",
+        "Page_Description": "Digital tool for creating various geometric shapes."
+    },
+    {
+        "Page_Name": "Sidebars",
+        "Page_Slug": "sidebars",
+        "Page_Description": "Secondary content area alongside the main content."
+    },
+    {
+        "Page_Name": "Sitemap",
+        "Page_Slug": "sitemap",
+        "Page_Description": "Visual representation of a website's structure."
+    },
+    {
+        "Page_Name": "Sketch",
+        "Page_Slug": "sketch",
+        "Page_Description": "Preliminary, freehand drawing of a design."
+    },
+    {
+        "Page_Name": "Skeuomorphism",
+        "Page_Slug": "skeuomorphism",
+        "Page_Description": "Design mimicking real-world materials or textures."
+    },
+    {
+        "Page_Name": "Slide",
+        "Page_Slug": "slide",
+        "Page_Description": "Single page or image in a presentation."
+    },
+    {
+        "Page_Name": "Small Caps",
+        "Page_Slug": "small-caps",
+        "Page_Description": "Uppercase letterforms in the height of lowercase."
+    },
+    {
+        "Page_Name": "Snap",
+        "Page_Slug": "snap",
+        "Page_Description": "Action where design elements align to guidelines."
+    },
+    {
+        "Page_Name": "Spec",
+        "Page_Slug": "spec",
+        "Page_Description": "Document detailing the requirements of a design project."
+    },
+    {
+        "Page_Name": "Special Color",
+        "Page_Slug": "special-color",
+        "Page_Description": "Custom color used in printing."
+    },
+    {
+        "Page_Name": "Speckle",
+        "Page_Slug": "speckle",
+        "Page_Description": "Small dots or spots scattered over an area."
+    },
+    {
+        "Page_Name": "Spectrodensitometer",
+        "Page_Slug": "spectrodensitometer",
+        "Page_Description": "Device measuring color density in printing."
+    },
+    {
+        "Page_Name": "Spectrophotometer",
+        "Page_Slug": "spectrophotometer",
+        "Page_Description": "Instrument measuring light intensity for color matching."
+    },
+    {
+        "Page_Name": "Spoilage",
+        "Page_Slug": "spoilage",
+        "Page_Description": "Defective or wasted printed material."
+    },
+    {
+        "Page_Name": "Spot Color",
+        "Page_Slug": "spot-color",
+        "Page_Description": "Specific ink color used in printing."
+    },
+    {
+        "Page_Name": "Spot Varnish",
+        "Page_Slug": "spot-varnish",
+        "Page_Description": "Varnish applied to specific areas for highlight."
+    },
+    {
+        "Page_Name": "Spread",
+        "Page_Slug": "spread",
+        "Page_Description": "Two facing pages in a publication."
+    },
+    {
+        "Page_Name": "Stamping",
+        "Page_Slug": "stamping",
+        "Page_Description": "Pressing a design onto a surface, usually with foil."
+    },
+    {
+        "Page_Name": "Standard Color",
+        "Page_Slug": "standard-color",
+        "Page_Description": "Color adhering to a recognized color system."
+    },
+    {
+        "Page_Name": "Storyboard",
+        "Page_Slug": "storyboard",
+        "Page_Description": "Series of illustrations depicting the flow of scenes."
+    },
+    {
+        "Page_Name": "Stroke",
+        "Page_Slug": "stroke",
+        "Page_Description": "Outline around the edge of a shape or text."
+    },
+    {
+        "Page_Name": "Styleguide",
+        "Page_Slug": "styleguide",
+        "Page_Description": "Set of standards for design and branding."
+    },
+    {
+        "Page_Name": "Subhead",
+        "Page_Slug": "subhead",
+        "Page_Description": "Smaller heading below the main headline."
+    },
+    {
+        "Page_Name": "Subscript",
+        "Page_Slug": "subscript",
+        "Page_Description": "Smaller character set below the base line of text."
+    },
+    {
+        "Page_Name": "Superscript",
+        "Page_Slug": "superscript",
+        "Page_Description": "Smaller character set above the line of text."
+    },
+    {
+        "Page_Name": "T-Shaped Designer",
+        "Page_Slug": "t-shaped-designer",
+        "Page_Description": "Designer with deep expertise in one area and broad knowledge in others."
+    },
+    {
+        "Page_Name": "Table Of Contents",
+        "Page_Slug": "table-of-contents",
+        "Page_Description": "List detailing sections and page numbers in a publication."
+    },
+    {
+        "Page_Name": "Taskflow",
+        "Page_Slug": "taskflow",
+        "Page_Description": "Visualization of steps a user takes in a task."
+    },
+    {
+        "Page_Name": "Text Fields",
+        "Page_Slug": "text-fields",
+        "Page_Description": "Areas in digital interfaces for users to input text."
+    },
+    {
+        "Page_Name": "Thermochromic Ink",
+        "Page_Slug": "thermochromic-ink",
+        "Page_Description": "Ink that changes color with temperature."
+    },
+    {
+        "Page_Name": "Three Over One (3/1)",
+        "Page_Slug": "three-over-one-3-1",
+        "Page_Description": "Printing with three colors on one side and one on the reverse."
+    },
+    {
+        "Page_Name": "Three Over Three (3/3)",
+        "Page_Slug": "three-over-three-3-3",
+        "Page_Description": "Printing with three colors on both sides."
+    },
+    {
+        "Page_Name": "Three Over Two (3/2)",
+        "Page_Slug": "three-over-two-3-2",
+        "Page_Description": "Printing with three colors on one side and two on the reverse."
+    },
+    {
+        "Page_Name": "Three Over Zero (3/0)",
+        "Page_Slug": "three-over-zero-3-0",
+        "Page_Description": "Printing with three colors on one side and none on the reverse."
+    },
+    {
+        "Page_Name": "Tiff",
+        "Page_Slug": "tiff",
+        "Page_Description": "Lossless graphics file format."
+    },
+    {
+        "Page_Name": "Tooltip",
+        "Page_Slug": "tooltip",
+        "Page_Description": "Informative message when hovering over an element."
+    },
+    {
+        "Page_Name": "Tracing Paper",
+        "Page_Slug": "tracing-paper",
+        "Page_Description": "Semi-transparent paper used for copying images."
+    },
+    {
+        "Page_Name": "Translineation",
+        "Page_Slug": "translineation",
+        "Page_Description": "Breaking a line of text at the end of a line."
+    },
+    {
+        "Page_Name": "Trapping",
+        "Page_Slug": "trapping",
+        "Page_Description": "Adjusting the overlap of colors to avoid gaps in printing."
+    },
+    {
+        "Page_Name": "Tree-Free",
+        "Page_Slug": "tree-free",
+        "Page_Description": "Paper made without using trees."
+    },
+    {
+        "Page_Name": "Trichromy",
+        "Page_Slug": "trichromy",
+        "Page_Description": "Printing with three colors."
+    },
+    {
+        "Page_Name": "Trim",
+        "Page_Slug": "trim",
+        "Page_Description": "Cutting printed sheets to their finished size."
+    },
+    {
+        "Page_Name": "Triptych",
+        "Page_Slug": "triptych",
+        "Page_Description": "Artwork split into three panels."
+    },
+    {
+        "Page_Name": "Two Over One (2/1)",
+        "Page_Slug": "two-over-one-2-1",
+        "Page_Description": "Printing with two colors on one side and one on the reverse."
+    },
+    {
+        "Page_Name": "Two Over Two (2/2)",
+        "Page_Slug": "two-over-two-2-2",
+        "Page_Description": "Printing with two colors on both sides."
+    },
+    {
+        "Page_Name": "Two Over Zero (2/0)",
+        "Page_Slug": "two-over-zero-2-0",
+        "Page_Description": "Printing with two colors on one side and none on the reverse."
+    },
+    {
+        "Page_Name": "Type Area",
+        "Page_Slug": "type-area",
+        "Page_Description": "The space occupied by text on a page."
+    },
+    {
+        "Page_Name": "Typeface",
+        "Page_Slug": "typeface",
+        "Page_Description": "A design for a set of characters."
+    },
+    {
+        "Page_Name": "Typeface Family",
+        "Page_Slug": "typeface-family",
+        "Page_Description": "Group of typefaces with a shared design."
+    },
+    {
+        "Page_Name": "Ultra Violet",
+        "Page_Slug": "ultra-violet",
+        "Page_Description": "Light beyond visible spectrum."
+    },
+    {
+        "Page_Name": "Under-Run",
+        "Page_Slug": "under-run",
+        "Page_Description": "Printing fewer copies than ordered."
+    },
+    {
+        "Page_Name": "Unlead",
+        "Page_Slug": "unlead",
+        "Page_Description": "To remove space between lines of type."
+    },
+    {
+        "Page_Name": "Uppercase",
+        "Page_Slug": "uppercase",
+        "Page_Description": "Capital letters."
+    },
+    {
+        "Page_Name": "User Interface",
+        "Page_Slug": "user-interface",
+        "Page_Description": "The space where users interact with a design."
+    },
+    {
+        "Page_Name": "User Interview",
+        "Page_Slug": "user-interview",
+        "Page_Description": "Direct conversation with users about their experiences."
+    },
+    {
+        "Page_Name": "User Journey Map",
+        "Page_Slug": "user-journey-map",
+        "Page_Description": "Visual representation of a user's interactions."
+    },
+    {
+        "Page_Name": "User-Centred Design",
+        "Page_Slug": "user-centred-design",
+        "Page_Description": "Design approach focusing on user needs and feedback."
+    },
+    {
+        "Page_Name": "Vector",
+        "Page_Slug": "vector",
+        "Page_Description": "Graphic based on paths rather than pixels."
+    },
+    {
+        "Page_Name": "Vector Image",
+        "Page_Slug": "vector-image",
+        "Page_Description": "Graphic defined by points, lines, and curves."
+    },
+    {
+        "Page_Name": "Vectorization",
+        "Page_Slug": "vectorization",
+        "Page_Description": "Converting raster graphics to vector."
+    },
+    {
+        "Page_Name": "Verso",
+        "Page_Slug": "verso",
+        "Page_Description": "Left-hand page of an open book."
+    },
+    {
+        "Page_Name": "Vignette",
+        "Page_Slug": "vignette",
+        "Page_Description": "Small illustration fading away at its edges."
+    },
+    {
+        "Page_Name": "Visual Design",
+        "Page_Slug": "visual-design",
+        "Page_Description": "Creation of interfaces in terms of color, layout, etc."
+    },
+    {
+        "Page_Name": "Visual Hierarchy",
+        "Page_Slug": "visual-hierarchy",
+        "Page_Description": "Visual cues that signify importance of elements."
+    },
+    {
+        "Page_Name": "Watermark",
+        "Page_Slug": "watermark",
+        "Page_Description": "Design or symbol in paper visible when held to light."
+    },
+    {
+        "Page_Name": "Wayfinding",
+        "Page_Slug": "wayfinding",
+        "Page_Description": "Design aiding people in navigating spaces."
+    },
+    {
+        "Page_Name": "Web-Fed Offset",
+        "Page_Slug": "web-fed-offset",
+        "Page_Description": "Offset where the inked image is transferred from a web roll."
+    },
+    {
+        "Page_Name": "White Balance",
+        "Page_Slug": "white-balance",
+        "Page_Description": "Adjusting colors for neutral gray."
+    },
+    {
+        "Page_Name": "White Space",
+        "Page_Slug": "white-space",
+        "Page_Description": "Empty space in a design."
+    },
+    {
+        "Page_Name": "Widow",
+        "Page_Slug": "widow",
+        "Page_Description": "Line of text separated from the rest of the paragraph."
+    },
+    {
+        "Page_Name": "Wireframe",
+        "Page_Slug": "wireframe",
+        "Page_Description": "Schematic, a blueprint for a digital interface."
+    },
+    {
+        "Page_Name": "Wordmark",
+        "Page_Slug": "wordmark",
+        "Page_Description": "Logo designed around a word."
+    },
+    {
+        "Page_Name": "Work And Tumble",
+        "Page_Slug": "work-and-tumble",
+        "Page_Description": "Printing one side, then flipping on the short edge to print the other."
+    },
+    {
+        "Page_Name": "Work And Turn",
+        "Page_Slug": "work-and-turn",
+        "Page_Description": "Printing one side, then flipping on the long edge to print the other."
+    },
+    {
+        "Page_Name": "X-Height",
+        "Page_Slug": "x-height",
+        "Page_Description": "Height of lowercase letters, excluding ascenders/descenders."
+    },
+    {
+        "Page_Name": "Xylogravure",
+        "Page_Slug": "xylogravure",
+        "Page_Description": "Image printed from a wood engraving."
+    },
+    {
+        "Page_Name": "Zincotypy",
+        "Page_Slug": "zincotypy",
+        "Page_Description": "Printing from engraved zinc plates."
+    }
+]
